@@ -1,11 +1,17 @@
-![Data Analyst helping business tuning their data into valuable insights.]([https://media.licdn.com/dms/image/C5616AQEV1rYtG93eag/profile-displaybackgroundimage-shrink_350_1400/0/1640782757490?e=1717027200&v=beta&t=k320hgAOkq0dzE_GUGLivWguklcGGd9rCPWa1reC4ec](https://raw.githubusercontent.com/gmanendra/gmanendra/main/Microsoft%20Certified%20Sr.Data%20Analyst%20-%20Manendra.png)
-### Hi there 👋, I'm Manendra
+![Data Analyst helping business tuning their data into valuable insights.](https://raw.githubusercontent.com/gmanendra/gmanendra/main/Microsoft%20Certified%20Sr.Data%20Analyst%20-%20Manendra.png)
+# Hi there 👋, I'm Manendra
 #### Data Analyst helping business tuning their data into valuable insights.
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm a Data analyst & visualization expert with a decade of experience. Proficient in Power BI, adept at unlocking insights from complex datasets. Passionate trainer, empowering aspiring analysts & upskilling professionals.
 
-Skills: SQL / Power BI / Data Warehouse / Excel 
+## Skills and Experience 
+
+Data Warehouse 
+- SQL 
+- Power BI 📈 
+- Excel 
+- Data Analytics Trainer 👨‍🏫
 
 - 🔭 I’m currently working on this page. 
 
