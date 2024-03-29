@@ -1,4 +1,4 @@
-![Data Analyst helping business tuning their data into valuable insights.]([https://media.licdn.com/dms/image/C5616AQEV1rYtG93eag/profile-displaybackgroundimage-shrink_350_1400/0/1640782757490?e=1717027200&v=beta&t=k320hgAOkq0dzE_GUGLivWguklcGGd9rCPWa1reC4ec](https://raw.githubusercontent.com/gmanendra/gmanendra/main/Microsoft%20Certified%20Sr.Data%20Analyst%20-%20Manendra.png))
+![Data Analyst helping business tuning their data into valuable insights.]([https://media.licdn.com/dms/image/C5616AQEV1rYtG93eag/profile-displaybackgroundimage-shrink_350_1400/0/1640782757490?e=1717027200&v=beta&t=k320hgAOkq0dzE_GUGLivWguklcGGd9rCPWa1reC4ec](https://raw.githubusercontent.com/gmanendra/gmanendra/main/Microsoft%20Certified%20Sr.Data%20Analyst%20-%20Manendra.png)
 ### Hi there 👋, I'm Manendra
 #### Data Analyst helping business tuning their data into valuable insights.
 
